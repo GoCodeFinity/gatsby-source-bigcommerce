@@ -1,5 +1,7 @@
 # gatsby-source-bigcommerce
 
+**This is a `fork` of the original. [This pull request](https://github.com/thirdandgrove/gatsby-source-bigcommerce/pull/15) describes the minor difference.**
+
 This source plugin makes Big Commerce api data available in gatsby.js sites
 
 ## Installation
